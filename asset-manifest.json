@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SimpleFormState/static/css/main.887befbc.css",
+    "main.js": "/SimpleFormState/static/js/main.831a3287.js",
+    "index.html": "/SimpleFormState/index.html",
+    "main.887befbc.css.map": "/SimpleFormState/static/css/main.887befbc.css.map",
+    "main.831a3287.js.map": "/SimpleFormState/static/js/main.831a3287.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.887befbc.css",
+    "static/js/main.831a3287.js"
+  ]
+}
